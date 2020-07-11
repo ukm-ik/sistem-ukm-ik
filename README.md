@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/by-riyanris-blue" /> <img src="https://img.shields.io/badge/license-MIT-green" />
 
 <p align="center">
-<img src="assets/ik.jpg" width="80%" alt="UKM-IK"/>
+<img src="https://user-images.githubusercontent.com/28080686/87218775-0a0bd800-c380-11ea-9aba-624918d030cb.jpg" width="80%" alt="UKM-IK"/>
 </p>
 
 UKM Informatika dan Komputer adalah unit kegiatan mahasiswa yang memiliki tujuan penalaran ilmiah di bidang informatika dan komputer. Memiliki lebih dari 60 anggota aktif dan ribuan alumni. Bertempat di STMIK Akakom Yogyakarta.
