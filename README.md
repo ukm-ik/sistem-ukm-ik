@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/28080686/87218775-0a0bd800-c380-11ea-9aba-624918d030cb.jpg" width="80%" alt="UKM-IK"/>
 </p>
 
-UKM Informatika dan Komputer adalah unit kegiatan mahasiswa yang memiliki tujuan penalaran ilmiah di bidang informatika dan komputer. Memiliki lebih dari 60 anggota aktif dan ribuan alumni. Bertempat di STMIK Akakom Yogyakarta.
+UKM Informatika dan Komputer adalah unit kegiatan mahasiswa yang memiliki tujuan penalaran ilmiah di bidang informatika dan komputer. Memiliki lebih dari 60 anggota aktif dan ratusan alumni. Bertempat di STMIK Akakom Yogyakarta.
 
 ## Memiliki beberapa fitur : 
 - Responsive dan adaptive pada semua perangkat, telah di test pada PC, Laptop, Smartphone dan Tablet
